@@ -1,0 +1,5 @@
+[/Experiment/Run parameters]
+comment = STRING : [128] R1197 207 Bi pole zero 53
+
+[/DAQ/params/grif16/template/1]
+p_polec1 = FLOAT : 53
